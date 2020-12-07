@@ -122,7 +122,6 @@ EMAIL_PORT = 587
 EMAIL_USE_TLS = True
 
 # from django.core.mail import send_mail
-# send_mail('Django mail', 'This is mail send by django by navneet','oyenavneet@gmail.com',['2018007307.navneet@ug.sharda.ac.in'],fail_silently=False)
 
 # Internationalization
 # https://docs.djangoproject.com/en/3.1/topics/i18n/
